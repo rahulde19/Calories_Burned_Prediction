@@ -32,7 +32,7 @@ The **`XGBoost Regressor`** appears to be the best model among the ones compared
 The Random Forest Regressor also performed very well, but XGBoost slightly edges it out in terms of accuracy.
 
 
-### - Other than XGBoost, the `Random Forest Regressor` is the next best model based on the metrics:
+### - Other than `XGBoost`, the `Random Forest Regressor` is the next best model based on the metrics:
 
 - **R² Score**: 0.9977 (very close to XGBoost)
 - **MAE**: 1.80
